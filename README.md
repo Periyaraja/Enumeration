@@ -1,4 +1,4 @@
-<img width="611" height="591" alt="image" src="https://github.com/user-attachments/assets/986f0ca1-68c2-45a7-84b2-7021dfe3a53c" /># Explore Google hacking and enumeration 
+# Explore Google hacking and enumeration 
 
 # AIM:
 
